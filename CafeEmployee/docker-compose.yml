@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  cafeemployee.server:
+    image: ${DOCKER_REGISTRY-}cafeemployeeserver
+    build:
+      context: .
+      dockerfile: CafeEmployee.Server\Dockerfile

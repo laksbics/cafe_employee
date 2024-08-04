@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:5173",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\CafeEmployee.Server\\..\\cafeemployee.client",
+"WorkingDirectory": "C:\\Users\\User\\Documents\\GitHub\\cafe_employee\\CafeEmployee\\CafeEmployee.Server\\..\\cafeemployee.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }
