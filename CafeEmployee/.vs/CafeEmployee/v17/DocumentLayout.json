@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99D344E0-D789-46C3-A6E8-C00B3B9C723C}|CafeEmployee.Server\\CafeEmployee.Server.csproj|c:\\users\\user\\source\\repos\\test\\cafeemployee\\cafeemployee.server\\controllers\\cafescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D344E0-D789-46C3-A6E8-C00B3B9C723C}|CafeEmployee.Server\\CafeEmployee.Server.csproj|solutionrelative:cafeemployee.server\\controllers\\cafescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1485EC39-D2F9-451E-A4FF-59C7BC799A22}|cafeemployee.client\\cafeemployee.client.esproj|c:\\users\\user\\source\\repos\\test\\cafeemployee\\cafeemployee.client\\src\\pages\\cafe.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1485EC39-D2F9-451E-A4FF-59C7BC799A22}|cafeemployee.client\\cafeemployee.client.esproj|solutionrelative:cafeemployee.client\\src\\pages\\cafe.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D344E0-D789-46C3-A6E8-C00B3B9C723C}|CafeEmployee.Server\\CafeEmployee.Server.csproj|c:\\users\\user\\source\\repos\\test\\cafeemployee\\cafeemployee.server\\models\\cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D344E0-D789-46C3-A6E8-C00B3B9C723C}|CafeEmployee.Server\\CafeEmployee.Server.csproj|solutionrelative:cafeemployee.server\\models\\cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1485EC39-D2F9-451E-A4FF-59C7BC799A22}|cafeemployee.client\\cafeemployee.client.esproj|c:\\users\\user\\source\\repos\\test\\cafeemployee\\cafeemployee.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1485EC39-D2F9-451E-A4FF-59C7BC799A22}|cafeemployee.client\\cafeemployee.client.esproj|solutionrelative:cafeemployee.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1485EC39-D2F9-451E-A4FF-59C7BC799A22}|cafeemployee.client\\cafeemployee.client.esproj|c:\\users\\user\\source\\repos\\test\\cafeemployee\\cafeemployee.client\\src\\pages\\employee.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1485EC39-D2F9-451E-A4FF-59C7BC799A22}|cafeemployee.client\\cafeemployee.client.esproj|solutionrelative:cafeemployee.client\\src\\pages\\employee.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1485EC39-D2F9-451E-A4FF-59C7BC799A22}|cafeemployee.client\\cafeemployee.client.esproj|c:\\users\\user\\source\\repos\\test\\cafeemployee\\cafeemployee.client\\src\\components\\common\\customtextbox.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1485EC39-D2F9-451E-A4FF-59C7BC799A22}|cafeemployee.client\\cafeemployee.client.esproj|solutionrelative:cafeemployee.client\\src\\components\\common\\customtextbox.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1485EC39-D2F9-451E-A4FF-59C7BC799A22}|cafeemployee.client\\cafeemployee.client.esproj|c:\\users\\user\\source\\repos\\test\\cafeemployee\\cafeemployee.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1485EC39-D2F9-451E-A4FF-59C7BC799A22}|cafeemployee.client\\cafeemployee.client.esproj|solutionrelative:cafeemployee.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1485EC39-D2F9-451E-A4FF-59C7BC799A22}|cafeemployee.client\\cafeemployee.client.esproj|c:\\users\\user\\source\\repos\\test\\cafeemployee\\cafeemployee.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1485EC39-D2F9-451E-A4FF-59C7BC799A22}|cafeemployee.client\\cafeemployee.client.esproj|solutionrelative:cafeemployee.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D344E0-D789-46C3-A6E8-C00B3B9C723C}|CafeEmployee.Server\\CafeEmployee.Server.csproj|c:\\users\\user\\source\\repos\\test\\cafeemployee\\cafeemployee.server\\migrations\\20240731163506_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D344E0-D789-46C3-A6E8-C00B3B9C723C}|CafeEmployee.Server\\CafeEmployee.Server.csproj|solutionrelative:cafeemployee.server\\migrations\\20240731163506_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D344E0-D789-46C3-A6E8-C00B3B9C723C}|CafeEmployee.Server\\CafeEmployee.Server.csproj|c:\\users\\user\\source\\repos\\test\\cafeemployee\\cafeemployee.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99D344E0-D789-46C3-A6E8-C00B3B9C723C}|CafeEmployee.Server\\CafeEmployee.Server.csproj|solutionrelative:cafeemployee.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D344E0-D789-46C3-A6E8-C00B3B9C723C}|CafeEmployee.Server\\CafeEmployee.Server.csproj|c:\\users\\user\\source\\repos\\test\\cafeemployee\\cafeemployee.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99D344E0-D789-46C3-A6E8-C00B3B9C723C}|CafeEmployee.Server\\CafeEmployee.Server.csproj|solutionrelative:cafeemployee.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D344E0-D789-46C3-A6E8-C00B3B9C723C}|CafeEmployee.Server\\CafeEmployee.Server.csproj|c:\\users\\user\\source\\repos\\test\\cafeemployee\\cafeemployee.server\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D344E0-D789-46C3-A6E8-C00B3B9C723C}|CafeEmployee.Server\\CafeEmployee.Server.csproj|solutionrelative:cafeemployee.server\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D344E0-D789-46C3-A6E8-C00B3B9C723C}|CafeEmployee.Server\\CafeEmployee.Server.csproj|c:\\users\\user\\source\\repos\\test\\cafeemployee\\cafeemployee.server\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D344E0-D789-46C3-A6E8-C00B3B9C723C}|CafeEmployee.Server\\CafeEmployee.Server.csproj|solutionrelative:cafeemployee.server\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D344E0-D789-46C3-A6E8-C00B3B9C723C}|CafeEmployee.Server\\CafeEmployee.Server.csproj|c:\\users\\user\\source\\repos\\test\\cafeemployee\\cafeemployee.server\\models\\employeecafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D344E0-D789-46C3-A6E8-C00B3B9C723C}|CafeEmployee.Server\\CafeEmployee.Server.csproj|solutionrelative:cafeemployee.server\\models\\employeecafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\cafeemployee.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "cafeemployee.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\cafeemployee.client\\src\\App.jsx",
+              "RelativeToolTip": "cafeemployee.client\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-01T08:03:45.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "nuget.config",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\cafeemployee.client\\nuget.config",
+              "RelativeDocumentMoniker": "cafeemployee.client\\nuget.config",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\cafeemployee.client\\nuget.config",
+              "RelativeToolTip": "cafeemployee.client\\nuget.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-01T07:25:54.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cafe.jsx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\cafeemployee.client\\src\\pages\\cafe.jsx",
+              "RelativeDocumentMoniker": "cafeemployee.client\\src\\pages\\cafe.jsx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\cafeemployee.client\\src\\pages\\cafe.jsx",
+              "RelativeToolTip": "cafeemployee.client\\src\\pages\\cafe.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-31T12:50:45.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomTextBox.jsx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\cafeemployee.client\\src\\components\\common\\CustomTextBox.jsx",
+              "RelativeDocumentMoniker": "cafeemployee.client\\src\\components\\common\\CustomTextBox.jsx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\cafeemployee.client\\src\\components\\common\\CustomTextBox.jsx",
+              "RelativeToolTip": "cafeemployee.client\\src\\components\\common\\CustomTextBox.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-01T05:40:22.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\CafeEmployee.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "CafeEmployee.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\CafeEmployee.Server\\appsettings.json",
+              "RelativeToolTip": "CafeEmployee.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T16:34:04.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "employee.jsx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\cafeemployee.client\\src\\pages\\employee.jsx",
+              "RelativeDocumentMoniker": "cafeemployee.client\\src\\pages\\employee.jsx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\cafeemployee.client\\src\\pages\\employee.jsx",
+              "RelativeToolTip": "cafeemployee.client\\src\\pages\\employee.jsx",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-31T12:50:51.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CafesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\CafeEmployee.Server\\Controllers\\CafesController.cs",
+              "RelativeDocumentMoniker": "CafeEmployee.Server\\Controllers\\CafesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\CafeEmployee.Server\\Controllers\\CafesController.cs",
+              "RelativeToolTip": "CafeEmployee.Server\\Controllers\\CafesController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAADwv5IAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:38:49.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cafe.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\CafeEmployee.Server\\Models\\Cafe.cs",
+              "RelativeDocumentMoniker": "CafeEmployee.Server\\Models\\Cafe.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\CafeEmployee.Server\\Models\\Cafe.cs",
+              "RelativeToolTip": "CafeEmployee.Server\\Models\\Cafe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:59:19.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\CafeEmployee.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CafeEmployee.Server\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\CafeEmployee.Server\\appsettings.Development.json",
+              "RelativeToolTip": "CafeEmployee.Server\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T16:34:13.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240731163506_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\CafeEmployee.Server\\Migrations\\20240731163506_Initial.cs",
+              "RelativeDocumentMoniker": "CafeEmployee.Server\\Migrations\\20240731163506_Initial.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\CafeEmployee.Server\\Migrations\\20240731163506_Initial.cs",
+              "RelativeToolTip": "CafeEmployee.Server\\Migrations\\20240731163506_Initial.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAQwHEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:35:07.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\cafeemployee.client\\package.json",
+              "RelativeDocumentMoniker": "cafeemployee.client\\package.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\cafeemployee.client\\package.json",
+              "RelativeToolTip": "cafeemployee.client\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T07:24:05.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeCafe.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\CafeEmployee.Server\\Models\\EmployeeCafe.cs",
+              "RelativeDocumentMoniker": "CafeEmployee.Server\\Models\\EmployeeCafe.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\CafeEmployee.Server\\Models\\EmployeeCafe.cs",
+              "RelativeToolTip": "CafeEmployee.Server\\Models\\EmployeeCafe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:19:05.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\CafeEmployee.Server\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CafeEmployee.Server\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\CafeEmployee.Server\\Models\\Employee.cs",
+              "RelativeToolTip": "CafeEmployee.Server\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:58:56.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\CafeEmployee.Server\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "CafeEmployee.Server\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Test\\CafeEmployee\\CafeEmployee.Server\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "CafeEmployee.Server\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAUwE8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:38:45.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

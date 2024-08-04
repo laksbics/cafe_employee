@@ -1,0 +1,6 @@
+@CafeEmployee.Server_HostAddress = http://localhost:5075
+
+GET {{CafeEmployee.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
